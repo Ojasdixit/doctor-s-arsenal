@@ -65,13 +65,13 @@ const Footer = () => {
                 <Mail className="w-5 h-5" />
                 <span>support@doctorsarsenal.com</span>
               </a>
-              <a href="tel:+1800000000" className="flex items-center gap-3 text-gray-400 hover:text-primary transition-colors">
+              <a href="tel:+918001234567" className="flex items-center gap-3 text-gray-400 hover:text-primary transition-colors">
                 <Phone className="w-5 h-5" />
-                <span>1800-000-0000</span>
+                <span>1800-123-4567 (Toll Free)</span>
               </a>
               <div className="flex items-start gap-3 text-gray-400">
                 <MapPin className="w-5 h-5 mt-0.5" />
-                <span>123 Healthcare Avenue, Medical District, City - 100001</span>
+                <span>Connaught Place, Block A, New Delhi, Delhi 110001, India</span>
               </div>
             </div>
           </div>
